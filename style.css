@@ -45,7 +45,7 @@ body {
 	margin: 25px 10px;
 	width: 550px;
 	height: 600px;
-	resize:vertical;
+	resize:none;
 	font-family: helvetica;
 	font-size: 18px;
 	line-height: 1.5;
